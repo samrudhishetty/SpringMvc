@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Aug 23 15:49:45 IST 2023
+org.eclipse.jst.jee.server\:LaptopTask=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\LaptopTask
+org.eclipse.jst.jee.server\:WelcomeSpring=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\WelcomeSpring
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\LaptopTask\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:RestDemo=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\RestDemo

@@ -1,0 +1,7 @@
+
+Aug 22, 2023 11:17:05.33 NEW SESSION
+Aug 22, 2023 11:17:05.33 [71148:69680:0822/111705.027:ERROR:device_event_log_impl.cc(222)] [11:17:05.027] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 22, 2023 11:52:16.637 [71148:69680:0822/115216.636:ERROR:device_event_log_impl.cc(222)] [11:52:16.635] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+Aug 22, 2023 12:34:26.836 NEW SESSION
+Aug 22, 2023 12:34:26.837 [70312:61000:0822/123426.834:ERROR:device_event_log_impl.cc(222)] [12:34:26.833] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
